@@ -1,0 +1,22 @@
+{
+    "files": {
+        "index.js": "915ea06e0933a734554a56f632f70c444e4aee9e0662e201116204397f6327a8",
+        "module.json": "e5a3d01531f14c99f1f18ea06aac32638af88509ced6d988a40714b69a656fd5"
+    },
+    "defs": {
+        "C_ADD_TELEPORT_TO_POS_LIST": 1,
+        "C_PCBANGINVENTORY_USE_SLOT": 1,
+        "C_DELETE_TELEPORT_TO_POS_LIST": 1,
+        "C_TELEPORT_TO_VILLAGE": 1,
+        "S_LOAD_TELEPORT_TO_POS_LIST": 1,
+        "S_LOGIN": 10,
+        "S_REQUEST_CONTRACT": 1,
+        "S_CANCEL_CONTRACT": 1,
+        "S_ACTION_END": 5,
+        "C_TELEPORT_TO_POS": 1,
+        "S_PCBANGINVENTORY_DATALIST": 1,
+        "S_VILLAGE_LIST_TO_TELEPORT": 1,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_ME": 3
+    }
+}

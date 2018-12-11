@@ -9,3 +9,6 @@ This version of Infinity Journal is a very old copy, with fixes done to bring it
 ## Credits
 - [Pinkie-Pie](https://github.com/tera-mods): Original Creator of infinity Journal
 - [JustPassingBy](https://github.com/ayylmar/infinity-journal): Rewrite of infinity journal of which some fixes were used in this version.
+
+## Issues
+- If you use quick-load, make sure you move at least once after using journal before teleporting somewhere else/using journal again.

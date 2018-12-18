@@ -46,8 +46,8 @@ module.exports = function InfinityJournal(dispatch) {
 	})
 		
 ////Hooks	
-	dispatch.hook('S_LOGIN', 10, event => {
-		cid = event.gameId
+	dispatch.game.on('enter_game', () => {
+		cid = dispatch.game.me.gameId
 		slotAtlas = slotJournal = -1
 		currentContract = teleportingTo = null
 	})

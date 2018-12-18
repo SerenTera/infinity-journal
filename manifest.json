@@ -1,6 +1,6 @@
 {
     "files": {
-        "index.js": "915ea06e0933a734554a56f632f70c444e4aee9e0662e201116204397f6327a8",
+        "index.js": "ece77aa85da59c3c48c74b970f46aa136c22876b5d2cddff12e6ffbdf3af6e35",
         "module.json": "e5a3d01531f14c99f1f18ea06aac32638af88509ced6d988a40714b69a656fd5"
     },
     "defs": {
@@ -9,7 +9,6 @@
         "C_DELETE_TELEPORT_TO_POS_LIST": 1,
         "C_TELEPORT_TO_VILLAGE": 1,
         "S_LOAD_TELEPORT_TO_POS_LIST": 1,
-        "S_LOGIN": 10,
         "S_REQUEST_CONTRACT": 1,
         "S_CANCEL_CONTRACT": 1,
         "S_ACTION_END": 5,
